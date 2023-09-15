@@ -233,8 +233,7 @@ function dragtasks() {
     } else {
       tasksContainer.insertBefore(draggable, afterElement);
     }
-   console.log( tasksContainer.children);
-   console.log(tasksArr);
+  
   });
 
   //  tasksContainer.addEventListener("dragleave",(params) => {

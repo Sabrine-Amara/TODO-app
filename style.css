@@ -243,4 +243,12 @@ body {
   .hint {
     margin-top: 68px;
   }
+  /* .typing{
+    display: none;
+  } */
+}
+@media (max-width: 404px) {
+.typing{
+    display: none;
+  } 
 }
